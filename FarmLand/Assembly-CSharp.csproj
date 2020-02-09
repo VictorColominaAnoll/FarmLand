@@ -53,7 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\collider.cs" />
+     <Compile Include="Assets\Scripts\InteractionObject.cs" />
      <Compile Include="Assets\Scripts\Movement.cs" />
+     <Compile Include="Assets\Scripts\OnCollissionTree.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/sprie/Desktop/FarmLand/FarmLand/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
