@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6f876267386ce3a409f10fc7711e018d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - lobbyCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
